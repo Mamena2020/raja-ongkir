@@ -280,7 +280,8 @@ class RajaOngkirService
 
     public static function test()
     {
-        return self::Cost(20, 200, Courier::jne,284);
+        // return self::Cost(20, 200, Courier::jne,284);
+        return self::CityByID(284);
     }
 
     //-----------------------------------------------------------------------------------------------------
