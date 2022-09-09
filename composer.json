@@ -1,0 +1,18 @@
+{
+    "name": "mamenatech/rajaongkir",
+    "description": "package to get cost delivery from raja ongkir api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "mamena2020",
+        "email": "mamenaware751@gmail.com"
+    }],
+    "require": {
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "mamenatech\\rajaongkir\\": "src/"
+        }
+    }
+}
