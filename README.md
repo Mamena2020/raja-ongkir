@@ -4,6 +4,7 @@ package to get cost delivery from raja ongkir api
 
 # how to use it?
 ```
+terminal: composer required mamenatech/rajaongkir
 RajaOngkirService::$apiKey="api key raja ongkir";
 ```
 
